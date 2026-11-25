@@ -7,7 +7,7 @@ A **4K 60fps Glassmorphic Swipe-Deck Watch Tracker** built natively for **Androi
 - **60fps GPU-Accelerated 3D Swipe Deck**:
   - Pure `graphicsLayer` spring physics (`stiffness = 720f`) with zero layout thrashing and automatic Coil RAM/Disk prefetching of the next 5 cards.
   - **TV Remote Swipe Presets**:
-    - **Three-Way Remote (Default)**: `→` **To Watch (Watchlist)** · `↑` **Watched ✓** · `←` **Pass** · `↓` **Undo Rewind** · `OK` **Details & 2160p Trailer** · `Back` **Focus Filters/Menu**.
+    - **Three-Way Remote (Default)**: `→` **To Watch (Watchlist)** · `↑` **Watched ✓** · `←` **Pass** · `↓` **Undo Rewind** · `OK` **Details & Trailer** · `Back` **Focus Filters/Menu**.
     - **Direct Watched / To-Watch**: `→` **Watched** · `←` **To Watch** · `↓` **Pass**.
     - **Action Button Dock**: Classic D-Pad focus across interactive bottom action pills.
   - Also supports touch / air-mouse drag gestures with live tilt and glowing neon swipe stamps.
@@ -20,7 +20,7 @@ A **4K 60fps Glassmorphic Swipe-Deck Watch Tracker** built natively for **Androi
   - Works out of the box on first launch via Cinemeta (`IMDb` high-res posters, 4K fanart backdrops, awards, cast, trailers) and Jikan (`Anime`), blended with personalized Trakt & Simkl recommendations when connected.
 - **Liquid-Glass & 4K Customization**:
   - **6 Dual-Tone Glass Themes**: `Midnight Nebula`, `Crimson Velvet`, `Cyber Matcha`, `Obsidian Gold`, `Arctic Aurora`, `Y2K Chrome`.
-  - Hardware `RenderEffect` 4K backdrop blur on Android TV 12+, adjustable glass crystal intensity, card glow shadows, and **2160p (4K UHD)** default trailer quality.
+  - Hardware `RenderEffect` 4K backdrop blur on Android TV 12+, adjustable glass crystal intensity, card glow shadows, and Ultra HD trailer playback.
   - **Support / Donate**: Built-in **Buy Me a Coffee** (`https://buymeacoffee.com/burbsklopek`) glass card and 4K vector QR modal in Settings.
 
 ## Build
