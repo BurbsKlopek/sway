@@ -1,13 +1,13 @@
 # Sway
 
-A **4K 60fps Glassmorphic "Tinder-Style" Watch Tracker** built natively for **Android TV** (`com.burbsklopek.sway`), pairing a hardware-accelerated 3D swipe card deck with bidirectional **Trakt** and **Simkl** cloud sync.
+A **4K 60fps Glassmorphic Swipe-Deck Watch Tracker** built natively for **Android TV** (`com.burbsklopek.sway`), pairing a hardware-accelerated 3D swipe card deck with bidirectional **Trakt** and **Simkl** cloud sync.
 
 ## Features
 
 - **60fps GPU-Accelerated 3D Swipe Deck**:
   - Pure `graphicsLayer` spring physics (`stiffness = 720f`) with zero layout thrashing and automatic Coil RAM/Disk prefetching of the next 5 cards.
   - **TV Remote Swipe Presets**:
-    - **Tinder 3-Way (Default)**: `→` **To Watch (Watchlist)** · `↑` **Watched ✓** · `←` **Pass** · `↓` **Undo Rewind** · `OK` **Details & 2160p Trailer** · `Back` **Focus Filters/Menu**.
+    - **Three-Way Remote (Default)**: `→` **To Watch (Watchlist)** · `↑` **Watched ✓** · `←` **Pass** · `↓` **Undo Rewind** · `OK` **Details & 2160p Trailer** · `Back` **Focus Filters/Menu**.
     - **Direct Watched / To-Watch**: `→` **Watched** · `←` **To Watch** · `↓` **Pass**.
     - **Action Button Dock**: Classic D-Pad focus across interactive bottom action pills.
   - Also supports touch / air-mouse drag gestures with live tilt and glowing neon swipe stamps.
